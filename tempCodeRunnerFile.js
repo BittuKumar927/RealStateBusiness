@@ -1,0 +1,1 @@
+"SELECT * FROM properties WHERE city = 'Delhi' AND yoc> 2020 AND status='rent'
